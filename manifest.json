@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Youmin",
 	"version": "1.0",
-	"description": "Minimize distraction from YouTube",
+	"description": "Minimalist Youtube - just search and watch you actually need. No thumbnails, no comments, no recommendations - focus is key.",
 	"content_scripts": 
 	[
 		{
