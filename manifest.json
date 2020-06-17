@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cherry Blossoms",
+	"name": "Youmin",
 	"version": "1.0",
-	"description": "A quasi paradise life. Replace all the profane words with the word 'Cherry Blossom', reformat the web pages and basically an all-in-one extension for all my preferences.",
+	"description": "Minimize distraction from YouTube",
 	"content_scripts": 
 	[
 		{

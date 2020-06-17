@@ -1,4 +1,13 @@
 var url = window.location.href;
 
-
-document.getElementById("contents").innerHTML = "nah";
+if (url.includes("youtube.com")) {
+	//alert("Youtube");
+	document.getElementById("title").innerHTML = "Minimalist Youtube";
+	document.getElementById("contents").style.visibility = "hidden";
+	
+	if (url.includes("youtube.com") && url.includes("query")){
+		alert("query");
+	}
+	
+	
+}
