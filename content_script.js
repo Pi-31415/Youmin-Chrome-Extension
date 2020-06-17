@@ -24,8 +24,9 @@ function mutetube() {
 
 if (url.includes("youtube.com")) {
 	document.getElementById("title").innerHTML = "Minimalist Youtube<br> <br><div style='font-size:1em;font-weight: normal;'> Just search and only watch you actually need. <br>- No thumbnails <br>- No comments <br>- No recommendations<br><br> In case you want to see the video preview, hover over the thumbnail.</div>";
+	zapimg();
 	zap("contents");
 	setInterval(function () {
 		mutetube();
-	}, 3000);
+	}, 10000);
 }
