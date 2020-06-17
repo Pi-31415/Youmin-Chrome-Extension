@@ -1,6 +1,9 @@
 # Youmin-Chrome-Extension
 Minimal Youtube Extension for Chrome
 
+Download at : https://paingthet.com/downloads/Youmin-Chrome-Extension.zip
+And follow the instructions here : 
+
 Just search and only watch you actually need.
 
 - No thumbnails
