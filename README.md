@@ -1,13 +1,19 @@
-# Youmin-Chrome-Extension
-Minimal Youtube Extension for Chrome
+# Youmin Chrome Extension (for Digital Minimalists)
+--------------------------------------------------
 
-Download at : https://paingthet.com/downloads/Youmin-Chrome-Extension.zip
-And follow the instructions here : 
+Distracted by everything on YouTube? Want a minimalist YouTube where you can 'watch YouTube' for the sake of 'watching YouTube' only and not end up procrastinating due to "endless" recommendations? 
 
-Just search and only watch you actually need.
+### Here is a freshly baked Chrome Extension for that.
 
-- No thumbnails
-- No comments
-- No recommendations
+Just search and "only watch" you "actually need".
+
+* No thumbnails (thus, no image clickbaits)
+* No comments
+* No recommendations
 
 In case you want to see the video preview, hover over the thumbnail.
+
+## How to
+
+* Download the extension at: http://paingthet.com/downloads/Youmin-Chrome-Extension.zip
+* Then follow the instructions in the video here : https://vimeo.com/430061705
