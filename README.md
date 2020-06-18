@@ -1,5 +1,4 @@
 # Youmin Chrome Extension (for Digital Minimalists)
---------------------------------------------------
 
 Distracted by everything on YouTube? Want a minimalist YouTube where you can 'watch YouTube' for the sake of 'watching YouTube' only and not end up procrastinating due to "endless" recommendations? 
 
