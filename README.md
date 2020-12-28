@@ -14,5 +14,5 @@ In case you want to see the video preview, hover over the thumbnail.
 
 ## How to
 
-* Download the extension at: http://paingthet.com/downloads/Youmin-Chrome-Extension.zip
+* Download the repository and extract on your computer.
 * Then follow the instructions in the video here : https://vimeo.com/430061705
