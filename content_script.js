@@ -32,3 +32,14 @@ if (url.includes("youtube.com")) {
 		mutetube();
 	}, 10000);
 }
+
+
+if (url.includes("facebook.com")) {
+	document.getElementById("title").innerHTML = "Minimalist Facebook";
+	zapimg();
+	//zap("contents");
+	//zap("chips");
+	setInterval(function () {
+		mutetube();
+	}, 10000);
+}
