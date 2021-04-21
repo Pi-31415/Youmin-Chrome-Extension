@@ -12,6 +12,10 @@ function zapimg() {
 	while (images.length > 0) {
 		images[0].parentNode.removeChild(images[0]);
 	}
+	var images = document.getElementsByTagName('image');
+	while (images.length > 0) {
+		images[0].parentNode.removeChild(images[0]);
+	}
 }
 
 function mutetube() {
@@ -30,5 +34,5 @@ if (url.includes("youtube.com")) {
 	zap("chips");
 	setInterval(function () {
 		mutetube();
-	}, 10000);
+	}, 50);
 }
