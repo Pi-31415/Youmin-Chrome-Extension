@@ -1,14 +1,13 @@
 {
-	"manifest_version": 2,
-	"name": "Youmin",
-	"version": "1.0",
-	"description": "Minimalist Youtube - just search and watch you actually need. No thumbnails, no comments, no recommendations - focus is key.",
-	"content_scripts": 
-	[
-		{
-			"matches": ["*://*/*"],
-			"js": ["content_script.js"],
-			"run_at": "document_end"
-		}
-	]
+  "manifest_version": 3,
+  "name": "Youmin",
+  "version": "1.0",
+  "description": "Minimalist Youtube - just search and watch you actually need. No thumbnails, no comments, no recommendations - focus is key.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ]
 }
